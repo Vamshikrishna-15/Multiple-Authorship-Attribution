@@ -1,0 +1,401 @@
+Folder,Filename,Code Complexity,Cyclomatic Complexity,Number of Functions,Lines of Code,Has Loops,Has Conditionals,Has Functions,Has Classes
+Alice Gana,aristotle.py,0,0,0,84,0,0,0,0
+Alice Gana,basic_calculator.py,1,1,0,93,1,1,1,0
+Alice Gana,basic_calculator2.py,1,1,0,97,1,1,1,0
+Alice Gana,basic_calculator3.py,3,3,0,146,1,1,1,0
+Alice Gana,functions.py,5,5,0,133,1,1,1,0
+Alice Gana,function_exercise4.py,2,2,0,35,1,1,1,0
+Alice Gana,functio_excercise1.py,3,3,0,32,0,1,1,0
+Alice Gana,functio_excercise2.py,6,6,0,46,1,1,1,0
+Alice Gana,functio_excercise3.py,3,3,0,26,1,1,1,0
+Alice Gana,list_exercise1.py,0,0,0,33,1,1,0,0
+Alice Gana,list_exercise2.py,0,0,0,21,0,1,0,0
+Alice Gana,list_exercise3.py,0,0,0,28,0,0,0,0
+Alice Gana,list_exercise4.py,0,0,0,27,1,0,0,0
+Alice Gana,list_exercise5.py,0,0,0,49,1,1,0,0
+Alice Gana,main.py,0,0,0,120,1,0,0,0
+Alice Gana,main2.py,1,1,0,49,0,1,1,0
+Alice Gana,main3.py,0,0,0,83,1,1,0,0
+Alice Gana,products.py,2,2,0,32,0,0,1,1
+Alice Gana,reccursion_excercise1.py,2,2,0,49,1,1,1,0
+Alice Gana,shoppingcart.py,3,3,0,28,1,1,1,1
+AMAN KHARWAL,3d.py,1,1,0,43,0,0,1,0
+AMAN KHARWAL,Alarm Clock.py,0,0,0,22,1,1,0,0
+AMAN KHARWAL,analog.py,2,2,0,70,1,1,1,1
+AMAN KHARWAL,BMI.py,0,0,0,17,0,1,0,0
+AMAN KHARWAL,calculator.py,4,4,0,44,1,0,1,1
+AMAN KHARWAL,chess.py,1,1,0,19,0,0,1,0
+AMAN KHARWAL,clock.py,1,1,0,24,0,0,1,0
+AMAN KHARWAL,dice.py,0,0,0,24,1,0,0,0
+AMAN KHARWAL,fidget spinner.py,1,1,0,37,0,1,1,0
+AMAN KHARWAL,game of life.py,17,17,0,38,1,1,1,1
+AMAN KHARWAL,image converter.py,1,1,0,29,0,0,1,0
+AMAN KHARWAL,Monty hall.py,10,10,0,28,0,1,1,0
+AMAN KHARWAL,Music player.py,1,1,0,46,1,0,1,0
+AMAN KHARWAL,number guessing game.py,0,0,0,22,1,1,0,0
+AMAN KHARWAL,Quiz_game.py,6,6,0,26,1,1,1,0
+AMAN KHARWAL,rainy.py,0,0,0,22,0,0,0,0
+AMAN KHARWAL,rock.py,0,0,0,38,1,1,0,0
+AMAN KHARWAL,video to audio.py,3,3,0,25,0,1,1,0
+AMAN KHARWAL,video to text.py,0,0,0,21,1,0,0,0
+AMAN KHARWAL,weight converter.py,1,1,0,39,0,0,1,0
+Armin Ronacher,aio.py,2,2,0,60,0,1,1,0
+Armin Ronacher,atomicfile.py,7,7,0,142,1,1,1,1
+Armin Ronacher,classyext.py,1,1,0,87,0,0,0,1
+Armin Ronacher,cli.py,2,2,0,51,0,1,1,0
+Armin Ronacher,config.py,3,3,0,95,1,1,1,1
+Armin Ronacher,flask_theme_support.py,1,1,0,87,0,0,0,1
+Armin Ronacher,hello.py,1,1,0,54,0,1,1,1
+Armin Ronacher,manage.py,1,1,0,22,0,1,1,0
+Armin Ronacher,pastebin.py,1,1,0,165,0,1,1,1
+Armin Ronacher,programs.py,2,2,0,149,1,1,1,1
+Armin Ronacher,re_scan.py,3,3,0,111,1,1,1,1
+Armin Ronacher,rust_setup_tools.py,1,1,0,130,1,1,1,1
+Armin Ronacher,server.py,3,3,0,58,1,1,1,1
+Armin Ronacher,signals.py,0,0,0,38,0,0,0,0
+Armin Ronacher,speaklater.py,1,1,0,201,0,1,1,1
+Armin Ronacher,tests.py,2,2,0,105,0,1,1,1
+Armin Ronacher,test_basic.py,2,2,0,83,0,0,1,0
+Armin Ronacher,threads.py,1,1,0,40,0,1,1,0
+Armin Ronacher,unified.py,1,1,0,23,1,1,1,0
+Armin Ronacher,utils.py,2,2,0,93,1,1,1,1
+David Beazley,apachelog.py,6,6,0,37,1,1,1,0
+David Beazley,broadcast.py,3,3,0,25,1,1,1,1
+David Beazley,bytesgen.py,0,0,0,22,0,0,0,0
+David Beazley,consumer.py,1,1,0,29,1,1,1,0
+David Beazley,downloads.py,0,0,0,17,0,0,0,0
+David Beazley,fieldmap.py,2,2,0,38,1,1,1,0
+David Beazley,follow.py,3,3,0,33,1,1,1,0
+David Beazley,gencat.py,2,2,0,20,1,1,1,0
+David Beazley,genevents.py,5,5,0,47,1,1,1,0
+David Beazley,gengrep.py,3,3,0,25,1,1,1,0
+David Beazley,genmulti.py,2,2,0,64,1,1,1,0
+David Beazley,genopen.py,4,4,0,25,1,1,1,0
+David Beazley,genqueue.py,3,3,0,32,1,1,1,0
+David Beazley,logcoroutine.py,3,3,0,29,1,1,1,0
+David Beazley,netsend.py,2,2,0,40,0,1,1,1
+David Beazley,runservers.py,0,0,0,23,0,0,0,0
+David Beazley,sendto.py,2,2,0,25,1,1,1,0
+David Beazley,shutdownevt.py,5,5,0,40,1,1,1,0
+David Beazley,storelast.py,2,2,0,26,1,1,1,1
+David Beazley,thrsend.py,4,4,0,51,1,1,1,1
+Donne Martin,bst.py,2,2,0,44,0,1,1,1
+Donne Martin,dfs.py,2,2,0,18,0,1,1,0
+Donne Martin,test_bit.py,1,1,0,39,0,1,1,1
+Donne Martin,test_bits_to_flip.py,1,1,0,22,0,1,1,1
+Donne Martin,test_compress.py,1,1,0,24,0,1,1,1
+Donne Martin,test_draw_lines.py,1,1,0,29,1,1,1,1
+Donne Martin,test_fizz_buzz.py,1,1,0,38,0,1,1,1
+Donne Martin,test_flip_bits.py,1,1,0,30,0,1,1,1
+Donne Martin,test_get_next_largest.py,1,1,0,34,0,1,1,1
+Donne Martin,test_hash_map.py,1,1,0,48,0,1,1,1
+Donne Martin,test_insert_m_into_n.py,1,1,0,22,0,1,1,1
+Donne Martin,test_pairwise_swap.py,1,1,0,25,0,1,1,1
+Donne Martin,test_permutation_solution.py,2,2,0,31,0,1,1,1
+Donne Martin,test_print_binary.py,1,1,0,26,0,1,1,1
+Donne Martin,test_priority_queue.py,1,1,0,31,1,1,1,1
+Donne Martin,test_reverse_string.py,1,1,0,30,0,1,1,1
+Donne Martin,test_rotation.py,1,1,0,23,0,1,1,1
+Donne Martin,test_str_diff.py,1,1,0,27,0,1,1,1
+Donne Martin,test_two_sum.py,1,1,0,24,0,1,1,1
+Donne Martin,test_unique_chars.py,2,2,0,31,0,1,1,1
+Garvit Bansal,03.py,4,4,0,29,1,1,1,1
+Garvit Bansal,05.py,12,12,0,75,1,1,1,1
+Garvit Bansal,06.py,9,9,0,42,1,1,1,1
+Garvit Bansal,10.py,14,14,0,41,1,1,1,1
+Garvit Bansal,11.py,4,4,0,27,1,1,1,1
+Garvit Bansal,14.py,6,6,0,51,1,1,1,1
+Garvit Bansal,15.py,11,11,0,48,1,1,1,1
+Garvit Bansal,16.py,7,7,0,45,1,1,1,1
+Garvit Bansal,17.py,6,6,0,34,1,1,1,1
+Garvit Bansal,18.py,10,10,0,58,1,1,1,1
+Garvit Bansal,19.py,6,6,0,43,1,1,1,1
+Garvit Bansal,22.py,2,2,0,37,0,1,1,1
+Garvit Bansal,23.py,6,6,0,84,1,1,1,1
+Garvit Bansal,24.py,5,5,0,32,1,1,1,1
+Garvit Bansal,25.py,9,9,0,39,1,1,1,1
+Garvit Bansal,26.py,5,5,0,34,1,1,1,1
+Garvit Bansal,30.py,12,12,0,65,1,1,1,1
+Garvit Bansal,31.py,8,8,0,43,1,1,1,1
+Garvit Bansal,32.py,5,5,0,19,1,1,1,1
+Garvit Bansal,33.py,10,10,0,72,1,1,1,1
+Imad,2nd_max.py,6,6,0,18,1,1,1,0
+Imad,Arrays.py,0,0,0,77,0,0,0,0
+Imad,Deeletion_by_value.py,2,2,0,31,1,1,1,1
+Imad,Duplicate_in_linklist.py,4,4,0,41,1,1,1,0
+Imad,First_Non_rep_integer.py,5,5,0,32,1,1,1,0
+Imad,hashfunction.py,1,1,0,67,1,1,1,0
+Imad,Insertion_at_Head.py,2,2,0,42,1,1,1,1
+Imad,insertion_at_kth.py,3,3,0,42,1,1,1,1
+Imad,Insertion_at_tail.py,3,3,0,21,1,1,1,0
+Imad,LinkedList.py,3,3,0,24,1,1,1,1
+Imad,Listof_Element_Product.py,4,4,0,23,1,1,1,0
+Imad,MaxHeapImplementaion.py,3,3,0,62,1,1,1,1
+Imad,maxtominHeap.py,2,2,0,44,1,1,1,0
+Imad,Max_Sum_Sublist.py,2,2,0,55,1,0,1,0
+Imad,Middle_node.py,2,2,0,73,1,1,1,1
+Imad,Minheap.py,3,3,0,75,1,1,1,1
+Imad,Rearrange_Sortedlist.py,3,3,0,22,1,1,1,0
+Imad,right_rotate.py,3,3,0,24,1,1,1,0
+Imad,sum_upto_k.py,4,4,0,41,1,1,1,0
+Imad,Union_Intersection_LL.py,8,8,0,87,1,1,1,0
+Jaredliw,1073 Towers.py,0,0,0,48,1,1,0,0
+Jaredliw,1084 Apartments.py,0,0,0,29,1,1,0,0
+Jaredliw,1090 Ferris Wheel.py,0,0,0,19,1,1,0,0
+Jaredliw,1192 Counting Rooms.py,5,5,0,24,1,1,1,0
+Jaredliw,1620 Factory Machines.py,0,0,0,21,1,1,0,0
+Jaredliw,1629 Movie Festival.py,0,0,0,14,1,1,0,0
+Jaredliw,1630 Tasks and Deadlines.py,0,0,0,19,1,0,0,0
+Jaredliw,1660 Subarray Sums I.py,0,0,0,19,1,0,0,0
+Jaredliw,1662 Subarray Divisibility.py,0,0,0,20,1,1,0,0
+Jaredliw,1666 Building Roads.py,0,0,0,28,1,1,0,0
+Jaredliw,Alphabet Spam.py,0,0,0,23,1,1,0,0
+Jaredliw,ASCII Figure Rotation.py,0,0,0,31,1,1,0,0
+Jaredliw,Circuit Math.py,0,0,0,28,1,1,0,0
+Jaredliw,Combination Lock.py,0,0,0,19,1,1,0,0
+Jaredliw,Competitive Arcade Basketball.py,0,0,0,21,1,1,0,0
+Jaredliw,Cudoviste.py,0,0,0,15,1,1,0,0
+Jaredliw,DRM Messages.py,2,2,0,26,1,1,1,0
+Jaredliw,Ostgotska.py,0,0,0,13,1,1,0,0
+Jaredliw,Words for Numbers.py,0,0,0,51,1,1,0,0
+Jaredliw,Zamka.py,2,2,0,20,1,1,1,0
+Kamyu,1-bit-and-2-bit-characters.py,4,4,0,17,1,1,1,1
+Kamyu,132-pattern.py,6,6,0,38,1,1,1,1
+Kamyu,2-keys-keyboard.py,5,5,0,21,1,1,1,1
+Kamyu,24-game.py,15,15,0,62,1,1,1,1
+Kamyu,accounts-merge.py,2,2,0,52,1,1,1,1
+Kamyu,ambiguous-coordinates.py,4,4,0,25,1,1,1,1
+Kamyu,bag-of-tokens.py,5,5,0,27,1,1,1,1
+Kamyu,battleships-in-a-board.py,10,10,0,21,1,1,1,1
+Kamyu,best-meeting-point.py,7,7,0,46,1,1,1,1
+Kamyu,binary-subarrays-with-sum.py,10,10,0,27,1,1,1,1
+Kamyu,binary-watch.py,5,5,0,29,1,0,1,1
+Kamyu,candy-crush.py,13,13,0,38,1,1,1,1
+Kamyu,coin-path.py,10,10,0,31,1,1,1,1
+Kamyu,delete-and-earn.py,4,4,0,18,1,0,1,1
+Kamyu,elimination-game.py,3,3,0,17,1,0,1,1
+Kamyu,grid-game.py,3,3,0,20,1,0,1,1
+Kamyu,hamming-distance.py,3,3,0,25,1,0,1,1
+Kamyu,house-robber.py,3,3,0,17,1,0,1,1
+Kamyu,image-smoother.py,6,6,0,25,1,1,1,1
+Kamyu,leaf-similar-trees.py,2,2,0,33,1,1,1,1
+Kenneth Reitz Archive,baisics.py,0,0,0,46,0,0,0,0
+Kenneth Reitz Archive,depreced.py,3,3,0,87,1,1,1,0
+Kenneth Reitz Archive,extenetions.py,5,5,0,131,0,1,1,1
+Kenneth Reitz Archive,fingerprint.py,2,2,0,50,0,0,1,1
+Kenneth Reitz Archive,flask_theme_support.py,1,1,0,77,0,0,0,1
+Kenneth Reitz Archive,formdata.py,5,5,0,111,1,1,1,0
+Kenneth Reitz Archive,guess.py,4,4,0,148,0,1,1,1
+Kenneth Reitz Archive,handler.py,2,2,0,143,1,1,1,1
+Kenneth Reitz Archive,help.py,6,6,0,102,0,1,1,0
+Kenneth Reitz Archive,hooks.py,2,2,0,33,1,1,1,0
+Kenneth Reitz Archive,http_proxy_digest.py,4,4,0,103,0,1,1,1
+Kenneth Reitz Archive,http_stati.py,0,0,0,89,1,1,0,0
+Kenneth Reitz Archive,sessions.py,2,2,0,69,0,1,1,1
+Kenneth Reitz Archive,streaming_iterator.py,3,3,0,115,1,1,1,1
+Kenneth Reitz Archive,tee.py,2,2,0,124,1,1,1,0
+Kenneth Reitz Archive,thread.py,2,2,0,50,1,0,1,1
+Kenneth Reitz Archive,user_agent.py,2,2,0,147,0,1,1,1
+Kenneth Reitz Archive,_digest_auth_compat.py,2,2,0,30,0,1,1,1
+Kenneth Reitz Archive,_internal_utils.py,2,2,0,41,0,1,1,0
+Kenneth Reitz Archive,_types.py,0,0,0,68,0,0,0,0
+Mahamudul Hasan Mithhu,balancedBrackets.py,6,6,0,18,1,1,1,0
+Mahamudul Hasan Mithhu,binarySearch.py,1,1,0,35,1,1,1,0
+Mahamudul Hasan Mithhu,branchSums.py,1,1,0,17,0,1,1,0
+Mahamudul Hasan Mithhu,bredthFirst.py,3,3,0,17,1,0,1,1
+Mahamudul Hasan Mithhu,bstConstruction.py,6,6,0,70,1,1,1,1
+Mahamudul Hasan Mithhu,bstTraverse.py,2,2,0,21,0,1,1,0
+Mahamudul Hasan Mithhu,bubbleSort.py,4,4,0,19,1,1,1,0
+Mahamudul Hasan Mithhu,caesarCipher.py,2,2,0,15,1,0,1,0
+Mahamudul Hasan Mithhu,depthFirst.py,2,2,0,14,1,0,1,1
+Mahamudul Hasan Mithhu,findClosestValueinBST.py,1,1,0,34,1,1,1,0
+Mahamudul Hasan Mithhu,FindThreeLargest.py,2,2,0,23,1,1,1,0
+Mahamudul Hasan Mithhu,insertionSort.py,4,4,0,15,1,0,1,0
+Mahamudul Hasan Mithhu,invertBinaryTree.py,2,2,0,26,0,1,1,0
+Mahamudul Hasan Mithhu,longestPalindromicSubstring.py,2,2,0,23,1,1,1,0
+Mahamudul Hasan Mithhu,mergeSort.py,2,2,0,73,1,1,1,0
+Mahamudul Hasan Mithhu,minHeapConstruct.py,3,3,0,48,1,1,1,1
+Mahamudul Hasan Mithhu,minMaxStack.py,2,2,0,27,0,1,1,1
+Mahamudul Hasan Mithhu,palindromeCheck.py,3,3,0,31,1,1,1,0
+Mahamudul Hasan Mithhu,quickSort.py,1,1,0,35,1,1,1,0
+Mahamudul Hasan Mithhu,selectionSort.py,4,4,0,18,1,1,1,0
+Mushinako,aoi.py,7,7,0,125,1,1,1,0
+Mushinako,run.py,10,10,0,91,1,1,1,0
+Mushinako,solution1.py,3,3,0,35,0,1,1,1
+Mushinako,solution10.py,5,5,0,71,1,1,1,1
+Mushinako,solution11.py,5,5,0,116,1,1,1,1
+Mushinako,solution12.py,4,4,0,111,1,1,1,1
+Mushinako,solution13.py,4,4,0,79,1,1,1,1
+Mushinako,solution14.py,3,3,0,100,1,1,1,1
+Mushinako,solution15.py,2,2,0,32,0,1,1,1
+Mushinako,solution17.py,8,8,0,96,1,1,1,1
+Mushinako,solution2.py,5,5,0,63,1,1,1,1
+Mushinako,solution25.py,6,6,0,90,1,1,1,1
+Mushinako,solution3.py,6,6,0,64,1,1,1,1
+Mushinako,solution4.py,10,10,0,91,1,1,1,1
+Mushinako,solution5.py,9,9,0,91,1,1,1,1
+Mushinako,solution6.py,3,3,0,48,1,1,1,1
+Mushinako,solution7.py,4,4,0,45,1,1,1,1
+Mushinako,solution8.py,8,8,0,99,1,1,1,1
+Mushinako,solution9.py,10,10,0,98,1,1,1,1
+Mushinako,utils.py,2,2,0,61,0,1,1,1
+Nikhil Mahajan,append-sort.py,4,4,0,28,1,1,1,0
+Nikhil Mahajan,blindfolded-bullseye.py,5,5,0,83,1,1,1,1
+Nikhil Mahajan,esab-atad.py,4,4,0,83,1,1,1,1
+Nikhil Mahajan,expogo.py,12,12,0,52,1,1,1,0
+Nikhil Mahajan,hacked-exam.py,1,1,0,75,1,1,1,0
+Nikhil Mahajan,incremental-house-of-pancakes.py,3,3,0,49,1,1,1,0
+Nikhil Mahajan,indicium.py,7,7,0,49,1,1,1,0
+Nikhil Mahajan,join-the-ranks.py,7,7,0,44,1,1,1,0
+Nikhil Mahajan,nesting-depth.py,3,3,0,24,1,1,1,0
+Nikhil Mahajan,overexcited-fan.py,8,8,0,33,1,1,1,0
+Nikhil Mahajan,overrandomized.py,3,3,0,18,1,0,1,0
+Nikhil Mahajan,oversized-pancake-choppers.py,3,3,0,49,1,1,1,0
+Nikhil Mahajan,parenting-partnering-returns.py,0,0,0,35,1,1,0,0
+Nikhil Mahajan,pascal-walk.py,10,10,0,38,1,1,1,0
+Nikhil Mahajan,pattern-matching.py,8,8,0,31,1,1,1,1
+Nikhil Mahajan,prime-time.py,5,5,0,43,1,1,1,0
+Nikhil Mahajan,security-update.py,11,11,0,57,1,1,1,0
+Nikhil Mahajan,square-dance.py,7,7,0,84,1,1,1,1
+Nikhil Mahajan,vestigium.py,0,0,0,15,1,0,0,0
+Nikhil Mahajan,wormhole-in-one.py,10,10,0,53,1,1,1,0
+phitronio,abstract.py,2,2,0,25,0,0,1,1
+phitronio,composition.py,2,2,0,20,0,0,1,1
+phitronio,computer.py,2,2,0,25,0,0,1,1
+phitronio,decorator.py,1,1,0,26,0,0,1,0
+phitronio,encapsulation.py,2,2,0,32,0,1,1,1
+phitronio,fleet_management.py,2,2,0,34,0,0,1,1
+phitronio,getting_ready.py,2,2,0,36,0,1,1,1
+phitronio,ghorib.py,2,2,0,42,0,0,1,1
+phitronio,inheritance.py,2,2,0,47,0,0,1,1
+phitronio,inner_fn.py,1,1,0,28,0,0,1,0
+phitronio,menu.py,2,2,0,52,1,1,1,1
+phitronio,muitiple_inheritance.py,2,2,0,19,0,0,1,1
+phitronio,muiti_level_inheritance.py,2,2,0,40,0,0,1,1
+phitronio,override.py,2,2,0,56,0,0,1,1
+phitronio,polymorpism.py,2,2,0,48,1,0,1,1
+phitronio,restaurant.py,3,3,0,58,0,1,1,1
+phitronio,shape.py,2,2,0,22,0,0,1,1
+phitronio,singleton.py,3,3,0,26,0,1,1,1
+phitronio,static.py,2,2,0,39,0,0,1,1
+phitronio,summary.py,2,2,0,21,0,0,1,1
+Samuel,0-add_integer.py,5,5,0,20,0,1,1,0
+Samuel,0-safe_print_list.py,4,4,0,17,1,1,1,0
+Samuel,1-main.py,0,0,0,18,0,1,0,0
+Samuel,100-main.py,0,0,0,19,0,1,0,0
+Samuel,101-main.py,1,1,0,24,1,0,1,0
+Samuel,102-magic_calculation.py,4,4,0,14,1,1,1,0
+Samuel,2-matrix_divided.py,11,11,0,31,1,1,1,0
+Samuel,3-say_my_name.py,4,4,0,18,0,1,1,0
+Samuel,4-list_division.py,5,5,0,19,1,0,1,0
+Samuel,4-print_square.py,8,8,0,22,1,1,1,0
+Samuel,5-text_indentation.py,6,6,0,27,1,1,1,0
+Samuel,6-max_integer.py,4,4,0,19,1,1,1,0
+Samuel,6-max_integer_test.py,2,2,0,29,0,1,1,1
+Samuel,7-main.py,0,0,0,23,0,0,0,0
+Samuel,8-main.py,0,0,0,18,0,0,0,0
+Samuel,8-uppercase.py,4,4,0,11,1,1,1,0
+Samuel,9-rectangle.py,2,2,0,25,0,0,1,1
+Samuel,base.py,3,3,0,95,0,1,1,1
+Samuel,rectangle.py,3,3,0,149,1,1,1,1
+Samuel,square.py,3,3,0,55,1,1,1,1
+Sebastian Castañeda,ar_cube_demo_1.py,5,5,0,112,1,1,1,1
+Sebastian Castañeda,ar_triangle_demo_1.py,5,5,0,93,1,1,1,1
+Sebastian Castañeda,ar_triangle_demo_2.py,5,5,0,100,1,1,1,1
+Sebastian Castañeda,background_subtraction.py,0,0,0,41,1,1,0,0
+Sebastian Castañeda,cube.py,3,3,0,62,1,1,1,0
+Sebastian Castañeda,detect_hog_images.py,0,0,0,58,1,0,0,0
+Sebastian Castañeda,detect_hog_video.py,0,0,0,52,1,1,0,0
+Sebastian Castañeda,import pygame.py,7,7,0,107,1,1,1,1
+Sebastian Castañeda,objviewer.py,0,0,0,82,1,1,0,0
+Sebastian Castañeda,planar_object_tracking_demo.py,6,6,0,62,1,1,1,1
+Sebastian Castañeda,pose_estimator.py,5,5,0,90,1,1,1,1
+Sebastian Castañeda,primitives.py,2,2,0,72,0,1,1,1
+Sebastian Castañeda,sift_cam_demo.py,0,0,0,26,1,1,0,0
+Sebastian Castañeda,sift_imgs_demo.py,0,0,0,28,1,0,0,0
+Sebastian Castañeda,sift_video_demo.py,0,0,0,44,1,1,0,0
+Sebastian Castañeda,surf_cam_demo.py,0,0,0,27,1,1,0,0
+Sebastian Castañeda,surf_imgs_demo.py,0,0,0,28,1,0,0,0
+Sebastian Castañeda,surf_video_demo.py,0,0,0,44,1,1,0,0
+Sebastian Castañeda,test_1.py,0,0,0,97,1,1,0,0
+Sebastian Castañeda,utils.py,4,4,0,53,0,1,1,1
+Subham Das,binary-search.py,4,4,0,40,1,1,1,0
+Subham Das,branch-sums.py,1,1,0,37,0,1,1,1
+Subham Das,bubble-sort.py,5,5,0,32,1,1,1,0
+Subham Das,caesar-cipher-encryptor..py,2,2,0,39,1,0,1,0
+Subham Das,class-photos.py,5,5,0,32,1,1,1,0
+Subham Das,deapth-first-search.py,3,3,0,36,1,0,1,1
+Subham Das,find-closest-value-in-BST.py,6,6,0,37,1,1,1,1
+Subham Das,find-three-largest-numbers.py,4,4,0,45,1,1,1,0
+Subham Das,first-non-reapting-character.py,6,6,0,16,1,1,1,0
+Subham Das,generete-document.py,6,6,0,17,1,1,1,0
+Subham Das,node-deapth.py,1,1,0,70,1,1,1,1
+Subham Das,non-constructable-change.py,4,4,0,17,1,1,1,0
+Subham Das,nth-fibbinoci.py,4,4,0,30,1,1,1,0
+Subham Das,palindrome-check.py,1,1,0,24,1,1,1,0
+Subham Das,product-sum.py,1,1,0,16,1,1,1,0
+Subham Das,run-length-encoding.py,4,4,0,20,1,1,1,0
+Subham Das,selection-sort.py,4,4,0,14,1,1,1,0
+Subham Das,sorted-square-array.py,2,2,0,28,1,1,1,0
+Subham Das,tournament-winner.py,5,5,0,49,1,1,1,0
+Subham Das,twoNumberSum.py,4,4,0,25,1,1,1,0
+Tuhin Mitra,boundary_traversal.py,12,12,0,125,1,1,1,0
+Tuhin Mitra,consonantBoder.py,0,0,0,18,0,1,0,0
+Tuhin Mitra,counting-sort.py,3,3,0,21,1,1,1,0
+Tuhin Mitra,Date_time_scraper.py,1,1,0,59,1,1,1,0
+Tuhin Mitra,detect_html_links.py,0,0,0,25,1,1,0,0
+Tuhin Mitra,diagonal-difference.py,7,7,0,24,1,1,1,0
+Tuhin Mitra,find_nth_spiral_element.py,14,14,0,104,1,1,1,0
+Tuhin Mitra,mini-max-sum.py,1,1,0,14,0,1,1,0
+Tuhin Mitra,min_swaps.py,7,7,0,90,1,1,1,0
+Tuhin Mitra,mock-test-d2.py,3,3,0,34,1,1,1,0
+Tuhin Mitra,mock_test_d1.py,2,2,0,16,0,1,1,0
+Tuhin Mitra,pile_of_coins.py,0,0,0,19,1,1,0,0
+Tuhin Mitra,plus_minus.py,4,4,0,46,1,1,1,0
+Tuhin Mitra,regexSubstitutions.py,3,3,0,25,1,1,1,0
+Tuhin Mitra,rotate_matrix_by_90.py,4,4,0,74,1,1,1,0
+Tuhin Mitra,search_sorted_2d_matrix.py,7,7,0,76,1,1,1,0
+Tuhin Mitra,spiral_matrix_traversal.py,10,10,0,106,1,1,1,0
+Tuhin Mitra,task-scheduler.py,6,6,0,82,1,1,1,0
+Tuhin Mitra,time-conversion.py,1,1,0,35,0,1,1,0
+Tuhin Mitra,unique_boolean_rows.py,4,4,0,77,1,1,1,0
+Tushar Nankani,01_topic_modelling_lda.py,0,0,0,59,1,0,0,0
+Tushar Nankani,03_distributed_global_averaging_method.py,2,2,0,241,1,1,1,0
+Tushar Nankani,04_hashtag_analysis.py,0,0,0,52,1,1,0,0
+Tushar Nankani,07_ricart_agarwala.py,7,7,0,293,1,1,1,0
+Tushar Nankani,10_community_detection.py,0,0,0,62,1,0,0,0
+Tushar Nankani,10_multithreading.py,4,4,0,40,1,1,1,0
+Tushar Nankani,client.py,0,0,0,16,1,1,0,0
+Tushar Nankani,client_1.py,1,1,0,21,0,1,1,0
+Tushar Nankani,continuous.py,1,1,0,137,1,1,1,0
+Tushar Nankani,discrete.py,2,2,0,123,1,1,1,0
+Tushar Nankani,main_1.py,1,1,0,105,0,0,1,0
+Tushar Nankani,main_2.py,1,1,0,93,1,1,1,0
+Tushar Nankani,main_3.py,1,1,0,101,1,1,1,0
+Tushar Nankani,main_4.py,1,1,0,97,1,1,1,0
+Tushar Nankani,main_5.py,1,1,0,115,1,1,1,0
+Tushar Nankani,main_6.py,1,1,0,98,1,1,1,0
+Tushar Nankani,main_7.py,6,6,0,76,1,0,1,0
+Tushar Nankani,main_8.py,6,6,0,73,1,0,1,0
+Tushar Nankani,server.py,3,3,0,33,1,1,1,0
+Tushar Nankani,server_1.py,1,1,0,27,0,0,1,0
+Vincent Russo,anagram.py,8,8,0,35,1,1,1,0
+Vincent Russo,binary_search.py,3,3,0,44,1,1,1,0
+Vincent Russo,bisect_ex.py,0,0,0,53,0,0,0,0
+Vincent Russo,bitonic_peak.py,11,11,0,45,1,1,1,0
+Vincent Russo,closest_number.py,10,10,0,74,1,1,1,0
+Vincent Russo,count_constants.py,4,4,0,28,1,1,1,0
+Vincent Russo,cyclic_sort.py,4,4,0,35,1,1,1,0
+Vincent Russo,find_constants.py,3,3,0,30,1,1,1,0
+Vincent Russo,first_duplicate_entry.py,6,6,0,40,1,1,1,0
+Vincent Russo,fixed_point.py,3,3,0,48,1,1,1,0
+Vincent Russo,intersected_sort_arrays.py,7,7,0,30,1,1,1,0
+Vincent Russo,int_to_str.py,4,4,0,45,1,1,1,0
+Vincent Russo,look_and_say_sequence.py,4,4,0,19,1,0,1,0
+Vincent Russo,palindrome_permutation.py,8,8,0,38,1,1,1,0
+Vincent Russo,permutation.py,4,4,0,66,1,1,1,0
+Vincent Russo,remove_first_name_duplicate.py,5,5,0,52,1,1,1,1
+Vincent Russo,run_lenght_encode.py,1,1,0,45,0,0,1,0
+Vincent Russo,square_root.py,3,3,0,35,1,1,1,0
+Vincent Russo,str_len.py,2,2,0,24,1,1,1,0
+Vincent Russo,unique.py,1,1,0,54,1,1,1,0
